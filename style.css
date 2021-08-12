@@ -1,0 +1,125 @@
+*{
+    background-color: #FFFFFF
+    font-family: 'Montserrat';
+
+
+}
+
+section{
+    color: #575757;
+}
+.orange-color{
+    color: orange;
+}
+
+.half-width h1{
+    font-size: 50px; 
+}
+
+.flexible-area{
+    display: flex;
+    margin-bottom: 3%;
+
+}
+.half-width{
+    width: 50%;
+    margin-top: 10px;
+}
+.half-width img{
+    width: 80%;
+    
+}
+
+.introducing-area{
+    margin-top: 100px;
+    margin-left: 8%
+
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 400px;
+}
+
+.about-me img{
+    width: 50%;
+    margin-left: 15%;
+}
+
+.about-me2{
+    margin-top: 30px;
+    margin-right: 10%;
+
+}
+.top-banner{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
+.my-recipies{
+    text-align: center;
+    margin: 0 30%;
+}
+.recipies-area{
+    display: flex;
+    margin-left: 10%;
+}
+
+.recipies-item{
+    width: 25%;
+    margin: 25px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+.recipies-item p{
+    margin-right: 60px;
+    margin-left: 7%;
+}
+.recipies-item h3{
+    margin-left: 7%;
+}
+.recipies-item img{
+    width: 80%;
+    margin: 10%;
+}
+
+.social-media-area{
+    margin: 5%;
+    display: flex;
+
+}
+.social-media-text{
+    width: 15%;
+    margin-left: 15%;
+
+
+}
+
+.social-media-text h1{
+    font-size: 40px;
+}
+#social-media-color{
+    color: #18191F;
+}
+
+footer{
+    background-color: #0B0D17;
+    height: 256px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer h1{
+    color: #FBA24F;
+}
+
+.network-color{
+    color: #5B5B5B;
+}
+
+footer p{
+    color: #FFFFFF;
+}
